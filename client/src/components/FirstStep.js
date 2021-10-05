@@ -1,6 +1,10 @@
 import React from 'react';
 import { useForm } from 'react-hook-form';
 import { motion } from 'framer-motion';
+
+
+
+
 import { Form, Button } from 'react-bootstrap';
 
 const FirstStep = (props) => {
@@ -19,7 +23,7 @@ const FirstStep = (props) => {
 
 
 
-    
+
     // let characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
     // let result = ''
     // let length = 6 // Customize the length here.
